@@ -1,18 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>makesomething</title>
-        <item>
-            <title>2.0</title>
-            <pubDate>Wed, 25 Mar 2026 11:36:47 -0700</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/farzaa/clicky-releases/releases/download/v1.0/makesomething.dmg" length="11852050" type="application/octet-stream"/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/farzaa/clicky-releases/releases/download/v1.0/makesomething11-1.delta" sparkle:deltaFrom="1" length="1979678" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bXP7bMEdOofn7ctoYaZRDRUTW5SW1sjZMgk53jdd+A06R75PfI0QVbQyAgY1e6y7gw12JntmjzbFmvz0C4SFBw=="/>
-            </sparkle:deltas>
-        </item>
+        <title>Clicky</title>
         <item>
             <title>1.0</title>
             <pubDate>Tue, 14 Apr 2026 13:20:28 -0700</pubDate>
