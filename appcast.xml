@@ -3,20 +3,12 @@
     <channel>
         <title>Clicky</title>
         <item>
-            <title>1.1</title>
-            <pubDate>Tue, 14 Apr 2026 14:15:03 -0700</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/farzaa/clicky-releases/releases/download/v1.1/Clicky.dmg" length="10940715" type="application/octet-stream" sparkle:edSignature="bRmv5SB+QsvEcu7MobPnxUrXC/cM8QJ9ov5hFxoUb5FZ/G9S7Ny6NpIr4FAv0aZoJcSW0U2JnjI15JtUNWVyBQ=="/>
-        </item>
-        <item>
             <title>1.0</title>
-            <pubDate>Tue, 14 Apr 2026 14:07:50 -0700</pubDate>
+            <pubDate>Tue, 14 Apr 2026 14:24:47 -0700</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/farzaa/clicky-releases/releases/download/v1.0/Clicky.dmg" length="10940719" type="application/octet-stream" sparkle:edSignature="6Jrl5btRdN6VUq0agQYN9Yj2j1n6jC2zoAq+hZ3+nMkvbatrqKkajEHNESvg+zFF1d9/OfXmRhBliNGcs+szCQ=="/>
+            <enclosure url="https://github.com/farzaa/clicky-releases/releases/download/v1.0/Clicky.dmg" length="10943450" type="application/octet-stream" sparkle:edSignature="PImWxJHkisyUwyyKI4F4j9GURUQaQ14l4jUwjiGYAmAZhIJYfdSVXsUZt0sBnQGNYQ70h2EXOBE/zdUPcC1WCg=="/>
         </item>
     </channel>
 </rss>
