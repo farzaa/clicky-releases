@@ -3,12 +3,12 @@
     <channel>
         <title>Clicky</title>
         <item>
-            <title>1.01</title>
-            <pubDate>Tue, 14 Apr 2026 20:54:28 -0700</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.01</sparkle:shortVersionString>
+            <title>1.02</title>
+            <pubDate>Tue, 14 Apr 2026 21:00:45 -0700</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.02</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/farzaa/clicky-releases/releases/download/v1.01/Clicky.dmg" length="10958799" type="application/octet-stream" sparkle:edSignature="5Heysibzx0R96qhhGkFQi1nY6fzTQ9SjNp/uh57QY4K2bfYxY6nFrtsihA1GiHBr5ehLHj3rlriWgaJC1GmrAQ=="/>
+            <enclosure url="https://github.com/farzaa/clicky-releases/releases/download/v1.02/Clicky.dmg" length="10958738" type="application/octet-stream" sparkle:edSignature="0LnN3bMJQSwgwj6lzMwyBqMm55sTzCnOy3NACrQU9eF7J+zoxYGaDvqnbTg9XeDSpRm15cYgQ+Xe5+VCESXvBw=="/>
         </item>
     </channel>
 </rss>
