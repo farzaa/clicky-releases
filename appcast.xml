@@ -3,28 +3,12 @@
     <channel>
         <title>Clicky</title>
         <item>
-            <title>1.02</title>
-            <pubDate>Wed, 15 Apr 2026 14:57:54 -0700</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.02</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/farzaa/clicky-releases/releases/download/v1.02/Clicky.dmg" length="11009810" type="application/octet-stream" sparkle:edSignature="JdBL/5+c7RW5Vytb8V/vmmaAxuR+8JhQSqDgGY/UUI9xJ9s7i3QqoE+WEekLGGr/bs067Ajucdwz0zR0cb5wDQ=="/>
-        </item>
-        <item>
-            <title>1.01</title>
-            <pubDate>Wed, 15 Apr 2026 14:49:43 -0700</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.01</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/farzaa/clicky-releases/releases/download/v1.01/Clicky.dmg" length="11009028" type="application/octet-stream" sparkle:edSignature="Mp7Oj6IkrHuWtB1yui758fXnJpP0fVihpvCoR7RJISne/NPae/+Wsft8NcgcVDWXiAabxh1Tdbean09JQTSyDA=="/>
-        </item>
-        <item>
             <title>1.00</title>
-            <pubDate>Wed, 15 Apr 2026 14:44:16 -0700</pubDate>
+            <pubDate>Wed, 15 Apr 2026 17:00:47 -0700</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.00</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/farzaa/clicky-releases/releases/download/v1.00/Clicky.dmg" length="10993148" type="application/octet-stream" sparkle:edSignature="o9b6EkmJYN/ACDYSjTpdkVh3BnE+qWthGFpjrGBcVkXIgutv3eyCxJoosSmC3BrQ/KsKR/gDT/Rg8qh6yWLqDA=="/>
+            <enclosure url="https://github.com/farzaa/clicky-releases/releases/download/v1.00/Clicky.dmg" length="11032932" type="application/octet-stream" sparkle:edSignature="cDfu06MlwWQR+QrXoG+9eum68aVTdYmt8MVrIGkvkdNvy+tYZ7rBhF4t1xiTLEcPCqNDWeQ187ZXxOMqlSv+Bg=="/>
         </item>
     </channel>
 </rss>
