@@ -4,11 +4,11 @@
         <title>Clicky</title>
         <item>
             <title>1.00</title>
-            <pubDate>Thu, 16 Apr 2026 17:32:28 -0700</pubDate>
+            <pubDate>Thu, 16 Apr 2026 17:39:45 -0700</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.00</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/farzaa/clicky-releases/releases/download/v1.00/Clicky.dmg" length="11029739" type="application/octet-stream" sparkle:edSignature="YtPhZqeZjebY1QZ/YDUMJ5mn3wPEByNgMSPEgkPna9xYrxsWMkVEq8RXNmo9/PfC3jmukvqZSGI7K8A0vuPJCA=="/>
+            <enclosure url="https://github.com/farzaa/clicky-releases/releases/download/v1.00/Clicky.dmg" length="11024274" type="application/octet-stream" sparkle:edSignature="iGwfh1EEotC2zzbOEbi0BhLvRbM6XZ1WCi4u/UbERLEHBkfeTZckIUFRGVY145sPAwIdG/9daOGItOlvar8uDw=="/>
         </item>
     </channel>
 </rss>
