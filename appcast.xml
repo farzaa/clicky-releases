@@ -3,6 +3,14 @@
     <channel>
         <title>Clicky</title>
         <item>
+            <title>1.0.8</title>
+            <pubDate>Sun, 26 Apr 2026 11:11:12 -0700</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/farzaa/clicky-releases/releases/download/v1.0.8/Clicky.dmg" length="175059368" type="application/octet-stream" sparkle:edSignature="B+tm9ZmGtrLHL+LKGfD0yVhCJTmdW3pH3hGxjAaQml8JOCYawLMjT/zdUyq22f1zlHWC4NWptupseTUnXjPnCQ=="/>
+        </item>
+        <item>
             <title>1.0.7</title>
             <pubDate>Sat, 25 Apr 2026 14:39:13 -0700</pubDate>
             <sparkle:version>10</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/farzaa/clicky-releases/releases/download/v1.0.6/Clicky.dmg" length="161447197" type="application/octet-stream" sparkle:edSignature="PkNhiqa6yROmXwQhBuWCFvm7WuFdvxz+sKekLjSLmJGiOeq7NZQwXczNRK/jlgehgUqx0VxD3zqQAAcijjJkAQ=="/>
-        </item>
-        <item>
-            <title>1.0.5</title>
-            <pubDate>Wed, 22 Apr 2026 21:29:08 -0700</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/farzaa/clicky-releases/releases/download/v1.0.5/Clicky.dmg" length="161422380" type="application/octet-stream" sparkle:edSignature="KzCQ58CfEInnk+FqCNijL92LZRQW2yCL8wds1L97PMMMnIfuSMEWNLd8bb0Dd1XMxmDFuDewkaJUSmzjICFuDA=="/>
         </item>
     </channel>
 </rss>
