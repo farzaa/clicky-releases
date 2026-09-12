@@ -3,6 +3,14 @@
     <channel>
         <title>Clicky</title>
         <item>
+            <title>1.0.49</title>
+            <pubDate>Sat, 12 Sep 2026 23:48:39 +0530</pubDate>
+            <sparkle:version>59</sparkle:version>
+            <sparkle:shortVersionString>1.0.49</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/farzaa/clicky-releases/releases/download/v1.0.49/HeyClicky.dmg" length="359996058" type="application/octet-stream" sparkle:edSignature="BAQNj3OeucSJkpWvR7as6/+mnZ8du6OoX3Z60Q54me4Ed9xw1LJbaAy7P2vDslHohPaHfn1gXuuz1hbZy5MJCw=="/>
+        </item>
+        <item>
             <title>1.0.48</title>
             <pubDate>Tue, 25 Aug 2026 20:56:10 +0530</pubDate>
             <sparkle:version>57</sparkle:version>
